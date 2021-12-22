@@ -1,0 +1,7 @@
+class IgeClass {
+    
+}
+
+export {
+    IgeClass
+};
